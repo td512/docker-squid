@@ -1,4 +1,4 @@
 all: build
 
 build:
-	@docker build --tag=sameersbn/squid .
+	@docker build --tag=td512/squid .
