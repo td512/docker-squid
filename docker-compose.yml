@@ -1,5 +1,5 @@
 Squid:
-  image: sameersbn/squid:3.5.27-1
+  image: td512/squid:3.5.27-1
   ports:
     - "3128:3128"
   volumes:
